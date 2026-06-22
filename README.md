@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -51,5 +52,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
