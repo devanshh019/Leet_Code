@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/devanshh019/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/devanshh019/Leet_Code/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshh019/Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/devanshh019/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
