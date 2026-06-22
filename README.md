@@ -19,9 +19,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshh019/Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/devanshh019/Leet_Code/tree/master/2390-removing-stars-from-a-string) |
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
