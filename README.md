@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/devanshh019/Leet_Code/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/devanshh019/Leet_Code/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -63,8 +64,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devanshh019/Leet_Code/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/devanshh019/Leet_Code/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devanshh019/Leet_Code/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/devanshh019/Leet_Code/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
