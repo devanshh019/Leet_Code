@@ -54,8 +54,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/devanshh019/Leet_Code/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/devanshh019/Leet_Code/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/devanshh019/Leet_Code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
