@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshh019/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/devanshh019/Leet_Code/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devanshh019/Leet_Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devanshh019/Leet_Code/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/devanshh019/Leet_Code/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/devanshh019/Leet_Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/devanshh019/Leet_Code/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/devanshh019/Leet_Code/tree/master/0342-power-of-four) |
