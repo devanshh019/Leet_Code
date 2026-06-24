@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devanshh019/Leet_Code/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/devanshh019/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devanshh019/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
