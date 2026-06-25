@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/devanshh019/Leet_Code/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshh019/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshh019/Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/devanshh019/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshh019/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devanshh019/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/devanshh019/Leet_Code/tree/master/0136-single-number) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/devanshh019/Leet_Code/tree/master/0054-spiral-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
