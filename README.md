@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devanshh019/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/devanshh019/Leet_Code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devanshh019/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/devanshh019/Leet_Code/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/devanshh019/Leet_Code/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devanshh019/Leet_Code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devanshh019/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/devanshh019/Leet_Code/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/devanshh019/Leet_Code/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0136-single-number](https://github.com/devanshh019/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/devanshh019/Leet_Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/devanshh019/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/devanshh019/Leet_Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devanshh019/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devanshh019/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devanshh019/Leet_Code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devanshh019/Leet_Code/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
