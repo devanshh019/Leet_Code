@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0383-ransom-note](https://github.com/devanshh019/Leet_Code/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/devanshh019/Leet_Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshh019/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devanshh019/Leet_Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/devanshh019/Leet_Code/tree/master/1189-maximum-number-of-balloons) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/devanshh019/Leet_Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0485-max-consecutive-ones](https://github.com/devanshh019/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/devanshh019/Leet_Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshh019/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devanshh019/Leet_Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devanshh019/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshh019/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -137,5 +139,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0525-contiguous-array](https://github.com/devanshh019/Leet_Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshh019/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devanshh019/Leet_Code/tree/master/0974-subarray-sums-divisible-by-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
