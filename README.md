@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0169-majority-element](https://github.com/devanshh019/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devanshh019/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/devanshh019/Leet_Code/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/devanshh019/Leet_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/devanshh019/Leet_Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshh019/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/devanshh019/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/devanshh019/Leet_Code/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/devanshh019/Leet_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devanshh019/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/devanshh019/Leet_Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshh019/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0088-merge-sorted-array](https://github.com/devanshh019/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devanshh019/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devanshh019/Leet_Code/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/devanshh019/Leet_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshh019/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 ## Union-Find
 |  |
