@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devanshh019/Leet_Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/devanshh019/Leet_Code/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/devanshh019/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/devanshh019/Leet_Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0560-subarray-sum-equals-k](https://github.com/devanshh019/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devanshh019/Leet_Code/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1331-rank-transform-of-an-array](https://github.com/devanshh019/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devanshh019/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshh019/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshh019/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0088-merge-sorted-array](https://github.com/devanshh019/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devanshh019/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devanshh019/Leet_Code/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/devanshh019/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 ## Union-Find
 |  |
 | ------- |
