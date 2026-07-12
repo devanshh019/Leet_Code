@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0485-max-consecutive-ones](https://github.com/devanshh019/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/devanshh019/Leet_Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshh019/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devanshh019/Leet_Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshh019/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0118-pascals-triangle](https://github.com/devanshh019/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshh019/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0053-maximum-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/devanshh019/Leet_Code/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devanshh019/Leet_Code/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
