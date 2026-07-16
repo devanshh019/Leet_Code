@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0485-max-consecutive-ones](https://github.com/devanshh019/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/devanshh019/Leet_Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshh019/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+| [0845-longest-mountain-in-array](https://github.com/devanshh019/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devanshh019/Leet_Code/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devanshh019/Leet_Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/devanshh019/Leet_Code/tree/master/0287-find-the-duplicate-number) |
+| [0845-longest-mountain-in-array](https://github.com/devanshh019/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshh019/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0118-pascals-triangle](https://github.com/devanshh019/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshh019/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0152-maximum-product-subarray) |
+| [0845-longest-mountain-in-array](https://github.com/devanshh019/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/devanshh019/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/devanshh019/Leet_Code/tree/master/1291-sequential-digits) |
 ## Binary Search
 |  |
