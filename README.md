@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devanshh019/Leet_Code/tree/master/0769-max-chunks-to-make-sorted) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshh019/Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0485-max-consecutive-ones](https://github.com/devanshh019/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/devanshh019/Leet_Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshh019/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devanshh019/Leet_Code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0845-longest-mountain-in-array](https://github.com/devanshh019/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devanshh019/Leet_Code/tree/master/0769-max-chunks-to-make-sorted) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0169-majority-element](https://github.com/devanshh019/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devanshh019/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devanshh019/Leet_Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devanshh019/Leet_Code/tree/master/0769-max-chunks-to-make-sorted) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshh019/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 ## Union-Find
 |  |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/devanshh019/Leet_Code/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/devanshh019/Leet_Code/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
