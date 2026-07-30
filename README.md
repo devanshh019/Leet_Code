@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0283-move-zeroes](https://github.com/devanshh019/Leet_Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/devanshh019/Leet_Code/tree/master/0287-find-the-duplicate-number) |
 | [0845-longest-mountain-in-array](https://github.com/devanshh019/Leet_Code/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/devanshh019/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshh019/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/devanshh019/Leet_Code/tree/master/0769-max-chunks-to-make-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/devanshh019/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
