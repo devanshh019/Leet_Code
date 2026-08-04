@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [1189-maximum-number-of-balloons](https://github.com/devanshh019/Leet_Code/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshh019/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/devanshh019/Leet_Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3731-find-missing-elements](https://github.com/devanshh019/Leet_Code/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshh019/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshh019/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/devanshh019/Leet_Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3731-find-missing-elements](https://github.com/devanshh019/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0442-find-all-duplicates-in-an-array](https://github.com/devanshh019/Leet_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devanshh019/Leet_Code/tree/master/0769-max-chunks-to-make-sorted) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshh019/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/devanshh019/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
 | ------- |
