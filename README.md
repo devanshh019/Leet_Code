@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devanshh019/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshh019/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devanshh019/Leet_Code/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/devanshh019/Leet_Code/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/devanshh019/Leet_Code/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0206-reverse-linked-list](https://github.com/devanshh019/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devanshh019/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devanshh019/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/devanshh019/Leet_Code/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
