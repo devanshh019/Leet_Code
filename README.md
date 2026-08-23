@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devanshh019/Leet_Code/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/devanshh019/Leet_Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devanshh019/Leet_Code/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/devanshh019/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devanshh019/Leet_Code/tree/master/0075-sort-colors) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshh019/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/devanshh019/Leet_Code/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/devanshh019/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshh019/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshh019/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/devanshh019/Leet_Code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshh019/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devanshh019/Leet_Code/tree/master/0769-max-chunks-to-make-sorted) |
 ## Linked List
