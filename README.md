@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0009-palindrome-number](https://github.com/devanshh019/Leet_Code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/devanshh019/Leet_Code/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/devanshh019/Leet_Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/devanshh019/Leet_Code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/devanshh019/Leet_Code/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/devanshh019/Leet_Code/tree/master/0342-power-of-four) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0033-search-in-rotated-sorted-array](https://github.com/devanshh019/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshh019/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devanshh019/Leet_Code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/devanshh019/Leet_Code/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devanshh019/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshh019/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devanshh019/Leet_Code/tree/master/0162-find-peak-element) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/devanshh019/Leet_Code/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/devanshh019/Leet_Code/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/devanshh019/Leet_Code/tree/master/1757-recyclable-and-low-fat-products) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/devanshh019/Leet_Code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
