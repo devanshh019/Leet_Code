@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0918-maximum-sum-circular-subarray](https://github.com/devanshh019/Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/devanshh019/Leet_Code/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devanshh019/Leet_Code/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/devanshh019/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshh019/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devanshh019/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshh019/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0287-find-the-duplicate-number](https://github.com/devanshh019/Leet_Code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshh019/Leet_Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/devanshh019/Leet_Code/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/devanshh019/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Greedy
 |  |
 | ------- |
